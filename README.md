@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
