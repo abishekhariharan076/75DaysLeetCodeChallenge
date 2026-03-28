@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -101,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
