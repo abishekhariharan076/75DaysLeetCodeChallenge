@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Sliding Window
