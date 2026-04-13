@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Math
