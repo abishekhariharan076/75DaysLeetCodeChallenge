@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Sorting
 |  |
 | ------- |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abishekhariharan076/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
